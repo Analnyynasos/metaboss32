@@ -1,0 +1,45 @@
+{
+  "name": "Zoonies #1656",
+  "symbol": "ZOON",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 200,
+  "image": "https://nftstorage.link/ipfs/bafybeiged4epfmhwxhs7gnlfqbcvwwa7sm7gugmrtncxkh25dy3jbferiu",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Plasma"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Zoonian_Purple"
+    },
+    {
+      "trait_type": "Antlers",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Trippin_Zoonie_Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap_Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Default"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FZ9XCR9S7zWiAupBms1T6wXpH2MEkZxtREy2UroxdU3J",
+        "share": 100
+      }
+    ]
+  }
+}
